@@ -1,2 +1,2 @@
-# Site-Farmacia
-Esse projeto e para fazer um site para uma farmácia, como divulgação dos produtos e publicar   
+
+Esse projeto e para fazer um site para uma açougue, como divulgação dos produtos ao publicar     
