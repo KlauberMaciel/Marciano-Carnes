@@ -1,7 +1,21 @@
 .cabecarro{
   color: black;
-  border: solid 5px black;
+  border: solid   3px black;
   width: 1300px;
-  background-color:#F2B33D
+  background-color:rgba(247, 177, 0, 0.977)
   
+}
+.imgC{
+    width:350px;
+    height:390px;
+}
+body{
+    background: linear-gradient(#D97B29,#A63B14, #401404 );
+}
+.quatro{
+    width:1300px;
+    height:200px;
+    border: 2px solid; 
+    background-color: #DBBC8F;
+    border-color:black;  
 }
