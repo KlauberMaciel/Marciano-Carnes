@@ -22,3 +22,22 @@ body{
 .letraC{
     color: #F2E313;
 }
+.fundo{
+    width:1300px;
+    height:200px;
+    border: 2px solid; 
+    background-color: #A63B14;
+    border-color:black;  
+}
+.imgD{
+    width:150px;
+    height:190px;
+}
+.carousel-control-next-icon{
+    color: red;
+    background-color: red;
+}
+.carousel-control-prev-icon{
+    color: red;
+    background-color: red;
+}
