@@ -41,3 +41,14 @@ body{
     color: red;
     background-color: red;
 }
+@media (max-width: 460px) {
+   .cabecarro{width:270% !important;height: 90% !important; margin-left: 20%} 
+   .ImagemPr{width:270% !important;height: 90% !important; margin-left: 20%}
+   .Titulo01{width:270% !important;height: 90% !important; margin-left: 100%}
+   .Div_pro{width:270% !important;height: 90% !important; margin-left: 20%}
+   .Carol{width:270% !important;height: 90% !important; margin-left: 20%}
+   .Titulo02{width:270% !important;height: 40% !important; margin-left: 10%}
+   .ImagemMeio{width:270% !important;height: 90% !important; margin-left: 25%;margin-top: 2%;}
+   .quatro{width:270% !important;height: 90% !important; margin-left: 10%}
+   .Rodape{width:270% !important;height: 100% !important; margin-left: 10%}
+  }
