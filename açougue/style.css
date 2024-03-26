@@ -5,6 +5,7 @@
   background-color:rgba(247, 177, 0, 0.977)
   
 }
+
 .imgC{
     width:350px;
     height:390px;
@@ -42,7 +43,7 @@ body{
     background-color: red;
 }
 @media (max-width: 460px) {
-   .cabecarro{width:270% !important;height: 90% !important; margin-left: 20%} 
+   .cabecarro{width:270% !important;height: 90% !important; margin-left: 20%}
    .ImagemPr{width:270% !important;height: 90% !important; margin-left: 20%}
    .Titulo01{width:270% !important;height: 90% !important; margin-left: 100%}
    .Div_pro{width:270% !important;height: 90% !important; margin-left: 20%}
@@ -52,3 +53,13 @@ body{
    .quatro{width:270% !important;height: 90% !important; margin-left: 10%}
    .Rodape{width:270% !important;height: 100% !important; margin-left: 10%}
   }
+
+ .tudo a:visited {
+     color: rgb(255, 183, 0);
+ }
+.tudo a:hover {
+     color: #000000;
+ }
+ .tudo a:active {
+     color: blue;
+ }
